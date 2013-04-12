@@ -23,4 +23,4 @@ Developers
 ==========
 [Christophe Naud-Dulude](https://github.com/Chris911)
 
-[Samuel Desrochers](https://github.com/samdesrochers)
+[Samuel Des Rochers](https://github.com/samdesrochers)
